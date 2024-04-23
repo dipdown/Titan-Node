@@ -5,6 +5,6 @@ wget -O titan.sh https://raw.githubusercontent.com/dipdown/titan/main/titan.sh &
 - Masukin Identity Code
 - Disk : 6
 - Node : 5
-- Skip / Klik Enter
-- Enter
+- Klik Enter
+- Klik Enter Lagi
 - Done
