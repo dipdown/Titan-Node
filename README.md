@@ -7,4 +7,4 @@ wget -O titan.sh https://raw.githubusercontent.com/dipdown/titan/main/titan.sh &
 - Node : 5
 - Klik Enter
 - Klik Enter Lagi
-- Done
+- Done ( Tungguin sampe 5 node kelar )
