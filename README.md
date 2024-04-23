@@ -1,5 +1,5 @@
 # Install
-wget -O titan.sh https://raw.githubusercontent.com/wah.../titan/main/titan.sh && chmod +x titan.sh && ./titan.sh
+wget -O titan.sh https://raw.githubusercontent.com/dipdown/titan/main/titan.sh && chmod +x titan.sh && ./titan.sh
 
 # Running
 - Masukin Identity Code
