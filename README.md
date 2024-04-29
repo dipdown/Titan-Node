@@ -1,10 +1,2 @@
 # Install
 wget -O titan.sh https://raw.githubusercontent.com/dipdown/titan/main/titan.sh && chmod +x titan.sh && ./titan.sh
-
-# Running
-- Masukin Identity Code
-- Disk : 6
-- Node : 5
-- Klik Enter
-- Klik Enter Lagi
-- Done ( Tungguin sampe 5 node kelar )
